@@ -17,7 +17,7 @@ npm install
 
 #### build scripts
 ```shell
-npm build
+webpack
 ```
 
 #### run webpackserver
